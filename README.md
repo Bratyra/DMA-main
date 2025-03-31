@@ -18,22 +18,22 @@
 ## 📌 Вводные задачи (16.01.2025)
 
 * ### [Задачи 1 на Java](https://github.com/Bratyra/DMA-main/tree/master/Вводные%20задачи/1%20java)
-* ### [Задачи 2 на Kotlin](https://github.com/Bratyra/DMA-main/tree/master/Вводные задачи/2 kotlin)
-* ### [Задачи 3 (ООП) на Dart](https://github.com/Bratyra/DMA-main/tree/master/Вводные задачи/3 Dart)
+* ### [Задачи 2 на Kotlin](https://github.com/Bratyra/DMA-main/tree/master/Вводные%20задачи/2%20kotlin)
+* ### [Задачи 3 (ООП) на Dart](https://github.com/Bratyra/DMA-main/tree/master/Вводные%20задачи/3%20Dart)
 
 ---
 
 ## 🛠 Отработка синтаксиса и базы языков (23.01.2025)
 
-* ### [Задачи DateTime](https://github.com/Bratyra/DMA-main/tree/master/Отработка синтаксиса и базы языков/DateTime)
-* ### [Задачи SingletonEnum](https://github.com/Bratyra/DMA-main/tree/master/Отработка синтаксиса и базы языков/SingeltonEnum)
-* ### [Задачи ThreadsLoNiO](https://github.com/Bratyra/DMA-main/tree/master/Отработка синтаксиса и базы языков/ThreadsLoNiO)
+* ### [Задачи DateTime](https://github.com/Bratyra/DMA-main/tree/master/Отработка%20синтаксиса%20и%20базы%20языков/DateTime)
+* ### [Задачи SingletonEnum](https://github.com/Bratyra/DMA-main/tree/master/Отработка%20синтаксиса%20и%20базы%20языков/SingeltonEnum)
+* ### [Задачи ThreadsLoNiO](https://github.com/Bratyra/DMA-main/tree/master/Отработка%20синтаксиса%20и%20базы%20языков/ThreadsLoNiO)
 
 ---
 
 ## 🔐 Шифр Цезаря
 
-### [Проект](https://github.com/Bratyra/DMA-main/tree/master/Шифр цезаря)
+### [Проект](https://github.com/Bratyra/DMA-main/tree/master/Шифр%20цезаря)
 
 Реализация классического шифра Цезаря с возможностью:
 - Шифрования/дешифрования текста
@@ -43,5 +43,5 @@
 ---
 
 <div align="center">
-  <sub>Создано с ❤️ для курса "Разработка мобильных приложений"</sub>
+  <sub>Создано для курса "Разработка мобильных приложений"</sub>
 </div>
