@@ -17,7 +17,7 @@
 
 ## 📌 Вводные задачи (16.01.2025)
 
-* ### [Задачи 1 на Java](https://github.com/Bratyra/DMA-main/tree/master/Вводные задачи/1 java)
+* ### [Задачи 1 на Java](https://github.com/Bratyra/DMA-main/tree/master/Вводные%20задачи/1%20java)
 * ### [Задачи 2 на Kotlin](https://github.com/Bratyra/DMA-main/tree/master/Вводные задачи/2 kotlin)
 * ### [Задачи 3 (ООП) на Dart](https://github.com/Bratyra/DMA-main/tree/master/Вводные задачи/3 Dart)
 
